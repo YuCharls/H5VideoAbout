@@ -4,4 +4,3 @@
   
   https://jx.618g.com/?url=
 
-  http://v.rpsofts.com/i.php?url=
