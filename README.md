@@ -1,6 +1,5 @@
 # H5VideoAddress
 
-  http://yun.baiyug.cn/vip/index.php?url=
-  
+  https://api.sigujx.com/jx/?url=
   https://jx.618g.com/?url=
-
+  http://jqaaa.com/jx.php?url=
