@@ -43,5 +43,5 @@
 <item>mallcss.com</item>
 <item>tkshyp.com</item>
 <item>dns.zxfvip.com</item>
-<item>.php?</item>
+<item>.php?id</item>
 <item>dg.ghosttty.cn</item>
