@@ -45,3 +45,4 @@
 <item>dns.zxfvip.com</item>
 <item>.php?id</item>
 <item>dg.ghosttty.cn</item>
+<item>ls.magictreehouse.cn</item>
