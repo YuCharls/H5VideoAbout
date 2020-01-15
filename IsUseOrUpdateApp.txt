@@ -1,0 +1,8 @@
+//是否能使用APP
+isUseApp=1
+//是否是强制更新 0不强制 1强制
+isUpdateApp=0
+//软件最新版
+appVersion=V1.1.0
+//软件下载地址
+appUrl=https://development2.baidupan.com/011515bb/2020/01/12/22146997f9a273670cf0e33eda0385cd.apk?st=aQ1pozZuOAaW5Te-zsf4xA&e=1579074673&b=BLFa2wCrUrBUgFarB7JT6layXuoGoAKCUjAAIwYwBSkDYQ_aoBL4EvgCxXrBXjVdhUjcBbww9ASoAYws3ACpUZwRkWnoAMVJgVDBWMgdmU2JWXF4zBjYCNFJeAGcGaAVmAzYPegRbBHIAPF5vV2lXfVJmAS0MZg_c_c&fi=16213132&up=1.
