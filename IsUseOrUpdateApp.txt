@@ -5,4 +5,4 @@ isUpdateApp=0
 //软件最新版
 appVersion=V1.1.0
 //软件下载地址
-appUrl=https://gitee.com/yucharles/H5VideoAbout/raw/master/apk/app-apk/huohuoyingshi.apk
+appUrl=https://raw.githubusercontent.com/YuCharls/H5VideoAddress/master/apk/app-apk/huohuoyingshi.apk
