@@ -46,3 +46,8 @@
 <item>.php?id</item>
 <item>dg.ghosttty.cn</item>
 <item>ls.magictreehouse.cn</item>
+<item>dg.ghosttty.cn</item>
+<item>ls.5793l.cn</item>
+<item>pv.dakawm.cc</item>
+<item>xn--xhq9mt12cf5v</item>
+<item>url.cn/5Jx0Wyq</item>
