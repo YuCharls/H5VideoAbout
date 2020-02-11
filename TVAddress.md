@@ -1,4 +1,5 @@
-<div class="cctv">
+##CCTV
+```
 CCTV-1高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 http://hq.ioioz.com/d/file/2015/0417/20150417122028616.jpg
@@ -44,4 +45,12 @@ http://hq.ioioz.com/d/file/2015/0417/20150417122151660.jpg
 CCTV-14高清
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 src="http://hq.ioioz.com/d/file/2015/1121/20151121054259469.jpg"
-</div>
+```
+
+##卫视频道
+```
+北京卫视高清
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+http://hq.ioioz.com/d/file/2015/0417/20150417123002151.jpg
+
+```
