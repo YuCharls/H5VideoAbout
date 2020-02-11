@@ -2,6 +2,7 @@
 >>CCTV-1高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 http://hq.ioioz.com/d/file/2015/0417/20150417122028616.jpg
+
 >>CCTV-2高清
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 http://hq.ioioz.com/d/file/2015/1121/20151121054000406.jpg
