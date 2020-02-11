@@ -1,9 +1,8 @@
 >CCTV
->>CCTV-1高清
+>>1. CCTV-1高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 http://hq.ioioz.com/d/file/2015/0417/20150417122028616.jpg
-
->>CCTV-2高清
+>>2. CCTV-2高清
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 http://hq.ioioz.com/d/file/2015/1121/20151121054000406.jpg
 
@@ -11,15 +10,15 @@ http://hq.ioioz.com/d/file/2015/1121/20151121054000406.jpg
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 http://hq.ioioz.com/d/file/2015/0417/20150417122415328.jpg
 
->CCTV-4高清
+>1. CCTV-4高清
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 http://hq.ioioz.com/d/file/2015/0417/20150417121142598.jpg
 
 
-CCTV-5高清
+1. CCTV-5高清
 http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
 http://hq.ioioz.com/d/file/2015/0417/20150417122518526.jpg
-CCTV-5+高清
+2. CCTV-5+高清
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 http://hq.ioioz.com/d/file/2014/0722/20140722110316660.jpg
 CCTV-6高清
