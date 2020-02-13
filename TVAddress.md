@@ -14,19 +14,19 @@ http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGE0zGSkJyGWSfe7p5hmd2O160414/ELMTpczNhFfnjUTDVZHJBDwt160414_1460623280.png
 >>* CCTV-5高清
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?tai=btv1&ChannelID=cctv5&videoTVChannel=cctv5&P2PChannelID=pd://cctv_p2p_hdcctv5
-http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png
+http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGETEIZZ4GiRbyPpk11xQdL160414/ELMTWHMxJ0d8XhldQZEClglQ160414_1460625135.png
 >>* CCTV-5+高清
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv5+_180817.png
 >>* CCTV-6高清
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-6_180817.png
+http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGEqfbmcwebnV2G5GOSR0a1160414/ELMT1hb2TZo6DZYMiSI5bCXx160415_1460688436.png
 >>* CCTV-7高清
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
-http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-7_180817.png
+http://p2.img.cctvpic.com/uploadimg/2019/07/30/1564461292719129.png
 >>* CCTV-8高清
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-8_180817.png
+http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGER9i7AU0AMa2t9CzJTltU160415/ELMTAvdUhtcxBVi7PEBt5RRk160415_1460704800.png
 >>* CCTV-9高清
 http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-9_180817.png
