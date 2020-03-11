@@ -34,13 +34,13 @@ http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGEVkcgLVeByP5UX9bHs3eH160
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGEvZ9e3BrepuedklC5JxRT160414/ELMTJOlaMQnHhArGrpnFt4eJ160414_1460619399.png
 >>* CCTV-11高清
-http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
+http://tv.cctv.com/live/cctv11/m/?spm=C28340.PFfibrpzDugF.En59pIUdUZS1.18
 http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGEuSNaRsCv3sJp0fqoaSzo160414/ELMTezyF0lKoM39nStxks2br160415_1460685302.png
 >>* CCTV-12高清
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGE2nqjXaCFGaP8U89Jw27I160414/ELMTHLyrppf0tVLSR6umKlCB160414_1463551211.png
 >>* CCTV-13高清
-http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
+http://tv.cctv.com/live/cctv13/m/?spm=C28340.PFfibrpzDugF.En59pIUdUZS1.3
 http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGE1dzdfA9CsHZAlnKJX7NE160113/ELMTFsE3wCrmJXPWgRi9vlhb160113_1459395017.png
 >>* CCTV-14高清
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
