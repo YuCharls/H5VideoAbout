@@ -140,7 +140,7 @@ http://www.tvyan.com/uploads/dianshi/btvdajs.jpg
 >>* CGTN高清
 http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 http://www.tvyan.com/uploads/dianshi/cgtnnews.jpg
->>* CGTN DOC高清
+>>* CGTN-DOC高清
 http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
 http://www.tvyan.com/uploads/dianshi/cgtndocumentary.jpg
 >>* CHC高清电影
