@@ -60,9 +60,90 @@ http://hq.ioioz.com/d/file/2015/0417/20150417123002151.jpg
 >>* 湖南卫视高清
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 http://hq.ioioz.com/d/file/2014/1014/20141014100423640.jpg
-
+>>* 浙江卫视高清
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+http://hq.ioioz.com/d/file/2015/0417/20150417123051441.jpg
+>>* 江苏卫视高清
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+http://hq.ioioz.com/d/file/2015/0417/20150417123530799.jpg
+>>* 东方卫视高清
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+http://hq.ioioz.com/d/file/2015/0417/20150417122845956.jpg
+>>* 安徽卫视高清
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+http://hq.ioioz.com/d/file/2014/0116/20140116014331377.jpg
+>>* 黑龙江卫视高清
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+http://hq.ioioz.com/d/file/2014/0728/20140728092337481.jpg
+>>* 吉林卫视高清
+http://ivi.bupt.edu.cn/hls/jlhd.m3u8
+http://www.tvyan.com/uploads/dianshi/jilintv.jpg
+>>* 辽宁卫视高清
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+http://hq.ioioz.com/d/file/2014/0116/20140116014711584.jpg
+>>* 深圳卫视高清
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+http://hq.ioioz.com/d/file/2014/0101/20140101082127540.jpg
+>>* 广东卫视高清
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+http://hq.ioioz.com/d/file/2015/0417/20150417123256441.jpg
+>>* 天津卫视高清
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+http://hq.ioioz.com/d/file/2016/1107/b07ac3b17af177a9cbfc42de044e269b.jpg
+>>* 湖北卫视高清
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+http://hq.ioioz.com/d/file/2015/0417/20150417123343786.jpg
+>>* 山东卫视高清
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+http://www.tvyan.com/uploads/dianshi/shandongtv.jpg
+>>* 重庆卫视高清
+http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+http://hq.ioioz.com/d/file/2018/0517/small0796d1332aadb73c05adfdce6a6ecbce.jpg
+>>* 东南卫视高清
+http://ivi.bupt.edu.cn/hls/dnhd.m3u8
+http://hq.ioioz.com/d/file/2015/0417/20150417123421472.jpg
+>>* 四川卫视高清
+http://ivi.bupt.edu.cn/hls/schd.m3u8
+http://hq.ioioz.com/d/file/2014/0722/20140722105013368.jpg
+>>* 河北卫视高清
+http://ivi.bupt.edu.cn/hls/hebhd.m3u8
+http://hq.ioioz.com/d/file/2014/0728/20140728091953388.jpg
+>>* 江西卫视高清
+http://ivi.bupt.edu.cn/hls/jxhd.m3u8
+http://hq.ioioz.com/d/file/2014/0722/20140722104840995.jpg
+>>* 河南卫视高清
+http://ivi.bupt.edu.cn/hls/hnhd.m3u8
+http://hq.ioioz.com/d/file/2014/0116/20140116013947688.jpg
+>>* 广西卫视高清
+http://ivi.bupt.edu.cn/hls/gxhd.m3u8
+http://hq.ioioz.com/d/file/2016/1008/8609a72d8c05bfb1d52283eb86554a5c.jpg
+>>* 海南卫视高清
+http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+http://hq.ioioz.com/d/file/2019/0622/smallafea8975ac2891a5620dce337eaaa175.jpg
+>>* 贵州卫视高清
+http://ivi.bupt.edu.cn/hls/gzhd.m3u8
+http://hq.ioioz.com/d/file/2014/0116/20140116013257852.jpg
 
 >其他频道
 >>* 北京文艺高清
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 http://hq.ioioz.com/d/file/2014/0512/20140512033348836.jpg
+>>* 北京影视高清
+http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
+http://hq.ioioz.com/d/file/2014/0512/20140512033629551.jpg
+>>* 北京新闻高清
+http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
+http://hq.ioioz.com/d/file/2014/0512/20140512034324556.jpg
+>>* 北京冬奥纪实高清
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+http://www.tvyan.com/uploads/dianshi/btvdajs.jpg
+>>* CGTN高清
+http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
+http://www.tvyan.com/uploads/dianshi/cgtnnews.jpg
+>>* CGTN DOC高清
+http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
+http://www.tvyan.com/uploads/dianshi/cgtndocumentary.jpg
+>>* CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+http://www.tvyan.com/uploads/dianshi/chchd.jpg
+
