@@ -136,7 +136,7 @@ http://hq.ioioz.com/d/file/2016/0918/small0a2c71268d2e230752f374bb5dd1da69147498
 http://ivi.bupt.edu.cn/hls/xmtv.m3u8
 http://hq.ioioz.com/d/file/2016/1019/4a991cd85dd7502f614f7b9774210b50.jpg
 >>* 新疆卫视
-http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
 http://hq.ioioz.com/d/file/2016/0918/small120325aa990a921f870c82470839952a1474194240.jpg
 >>* 云南卫视
 http://ivi.bupt.edu.cn/hls/yntv.m3u8
