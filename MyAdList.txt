@@ -38,12 +38,10 @@
 <item>mendoc.cn</item>
 <item>cnzz.com</item>
 <item>xue998.com</item>
-<item>baidu.com</item>
 <item>msdfd.cn</item>
 <item>mallcss.com</item>
 <item>tkshyp.com</item>
 <item>dns.zxfvip.com</item>
-<item>.php?id</item>
 <item>dg.ghosttty.cn</item>
 <item>ls.magictreehouse.cn</item>
 <item>dg.ghosttty.cn</item>
