@@ -1,7 +1,7 @@
 //是否能使用APP
 isUseApp=1
 //是否是强制更新 0不强制 1强制
-isUpdateApp=1
+isUpdateApp=0
 //软件最新版 版本名称
 appVersionName=V2.1.8
 //软件最新版 版本码
