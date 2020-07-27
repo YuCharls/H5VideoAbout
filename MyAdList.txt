@@ -65,4 +65,10 @@
 <item>xl.3y6c.cn</item>
 <item>kl.mieyisi.com</item>
 <item>k.jjhaolin.com</item>
-
+<item>slade2.js</item>
+<item>xl.llrnlzl.cn</item>
+<item>xc.gasfbw.cn</item>
+<item>xg.zhlzdhr.cn</item>
+<item>test-qrcode.tiantiankaiche.com</item>
+<item>cnzz.mosflower.cn</item>
+<item>i.ssl.66cn.com</item>
