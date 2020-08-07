@@ -72,3 +72,5 @@
 <item>test-qrcode.tiantiankaiche.com</item>
 <item>cnzz.mosflower.cn</item>
 <item>i.ssl.66cn.com</item>
+<item>mg.btnvlvt.cn</item>
+<item>k.innvitor.com</item>

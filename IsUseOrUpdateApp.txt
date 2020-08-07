@@ -1,10 +1,10 @@
 //是否能使用APP
 isUseApp=1
 //是否是强制更新 0不强制 1强制
-isUpdateApp=0
+isUpdateApp=1
 //软件最新版 版本名称
-appVersionName=V2.2.0
+appVersionName=V2.2.1
 //软件最新版 版本码
-appVersionCode=24
+appVersionCode=25
 //软件下载地址
 appUrl=https://raw.githubusercontent.com/YuCharls/H5VideoAddress/master/apk/app-apk/huohuoyingshi.apk
