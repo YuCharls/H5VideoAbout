@@ -1,4 +1,4 @@
-//是否能使用APP
+//是否能使用APP(2.2.1版本之前的版本)
 isUseApp=1
 //是否是强制更新 0不强制 1强制
 isUpdateApp=1
@@ -8,3 +8,5 @@ appVersionName=V2.2.1
 appVersionCode=25
 //软件下载地址
 appUrl=https://raw.githubusercontent.com/YuCharls/H5VideoAddress/master/apk/app-apk/huohuoyingshi.apk
+//是否能使用2.2.2之后的版本
+isUseApp222=1
