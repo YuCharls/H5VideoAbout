@@ -1,16 +1,16 @@
 # HuoHuoVideoAbout
-火火影视
+火火影视APP
 
-![1](C:\Users\1\Desktop\GitHub\HuoHuoVideoAbout\1.jpg)
+![1](https://github.com/YuCharls/HuoHuoVideoAbout/blob/master/1.jpg)
 
-![2](C:\Users\1\Desktop\GitHub\HuoHuoVideoAbout\2.jpg)
+![2](https://github.com/YuCharls/HuoHuoVideoAbout/blob/master/2.jpg)
 
-![3](C:\Users\1\Desktop\GitHub\HuoHuoVideoAbout\3.jpg)
+![3](https://github.com/YuCharls/HuoHuoVideoAbout/blob/master/3.jpg)
 
-![4](C:\Users\1\Desktop\GitHub\HuoHuoVideoAbout\4.jpg)
+![4](https://github.com/YuCharls/HuoHuoVideoAbout/blob/master/4.jpg)
 
-![5](C:\Users\1\Desktop\GitHub\HuoHuoVideoAbout\5.jpg)
+![5](https://github.com/YuCharls/HuoHuoVideoAbout/blob/master/5.jpg)
 
-![6](C:\Users\1\Desktop\GitHub\HuoHuoVideoAbout\6.jpg)
+![6](https://github.com/YuCharls/HuoHuoVideoAbout/blob/master/6.jpg)
 
-![7](C:\Users\1\Desktop\GitHub\HuoHuoVideoAbout\7.jpg)
+![7](https://github.com/YuCharls/HuoHuoVideoAbout/blob/master/7.jpg)
